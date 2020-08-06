@@ -8,3 +8,10 @@ https://www.dideo.ir/v/yt/firstVideoPlaylistKey/advanced-jax-rs?list=PLqq-6Pq4lT
 
 https://www.tutorialspoint.com/restful/restful_quick_guide.htm
 
+consider below link(@red9bit at Yara) about rest framework
+https://www.aparat.com/v/ZN5vK
+
+
+https://dennis-xlc.gitbooks.io/restful-java-with-jax-rs-2-0-2rd-edition/content/en/part2/chapter24/example_ex10_1_atom_links.html
+
+
